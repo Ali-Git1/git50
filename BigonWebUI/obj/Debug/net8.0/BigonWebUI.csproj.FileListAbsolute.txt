@@ -132,3 +132,5 @@ C:\Users\ELViN\source\repos\BigonWebUI\BigonWebUI\obj\Debug\net8.0\refint\BigonW
 C:\Users\ELViN\source\repos\BigonWebUI\BigonWebUI\obj\Debug\net8.0\BigonWebUI.pdb
 C:\Users\ELViN\source\repos\BigonWebUI\BigonWebUI\obj\Debug\net8.0\BigonWebUI.genruntimeconfig.cache
 C:\Users\ELViN\source\repos\BigonWebUI\BigonWebUI\obj\Debug\net8.0\ref\BigonWebUI.dll
+C:\Users\ELViN\source\repos\BigonWebUI\BigonWebUI\obj\Debug\net8.0\BigonWebUI.sourcelink.json
+C:\Users\ELViN\source\repos\BigonWebUI\BigonWebUI\bin\Debug\net8.0\libman.json

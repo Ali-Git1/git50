@@ -1,4 +1,8 @@
-﻿   <!-- Slider Area Start -->
+﻿
+
+
+
+  <!-- Slider Area Start -->
 <div class="slider-area slider-one pt-30">
     <div class="container">
         <div class="row">
@@ -5435,6 +5439,11 @@
     <!-- Container End -->
 </div>
 <!-- Random Product End -->
+
+
+
+
+
 <!-- Signup Newsletter Start -->
 <div class="newsletter">
     <div class="container">
@@ -5451,7 +5460,7 @@
             </div>
             <div class="col-md-5">
                 <div class="newsletter-box">
-                    <form action="#">
+                    <form class="newsForm" action="#">
                         <input class="subscribe"
                                placeholder="Enter your email address"
                                name="email"
@@ -5465,3 +5474,81 @@
     </div>
 </div>
 <!-- Signup-Newsletter End -->
+
+
+@* @section custom_js{
+ <script>
+
+     $(document).ready(function(){
+         $("newsForm").submit((e)=>{
+             e.preventDefault()
+
+             
+             let formData=new FormData(e.target)
+
+
+             $.ajax({
+                 url:"@Url.Action("Subscribe","home")",
+                 method:"POST",
+                 data:formData,
+                 contentType:false,
+                 processData:false,
+                 success:function(result){
+                     console.log(result)
+                     $(this).trigger("submit")
+                 },
+                 error:function(){
+
+                 }
+                
+             })
+         })      
+     })
+
+
+</script> *@
+
+
+@section custom_js{
+ <script>
+
+        toastr["warning"]("OK", "Success")
+
+        
+
+     $(document).ready(function(){
+        var form $('newsForm');
+
+             
+            form.on('submit',function(e){
+                e.preventDefault();
+            }
+
+               var formData=new FormData(this);
+
+             $.ajax({
+                 url:"@Url.Action("Subscribe","home")",
+                 method:"POST",
+                 data:formData,
+                 contentType:false,
+                 processData:false,
+                 success:function(result){
+                     if(result.success{
+                         toastr.success( result.message,"Ugurlu")
+                         form[0].reset();
+                         return;
+                     }
+
+                    toastr.error(result.message, "Xeta")
+
+                },
+                 error:function(){
+                    
+                 }
+                
+             })
+         })      
+     })
+
+</script>
+}

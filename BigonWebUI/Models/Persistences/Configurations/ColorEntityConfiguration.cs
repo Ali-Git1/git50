@@ -19,7 +19,7 @@ namespace BigonWebUI.Models.Persistences.Configurations
 
             builder.ConfigurAsAuditable();
 
-            builder.ToTable("Colors");
+            builder.ToTable("Colors"); //burada ne ad yazilsa birbasa table yaradanda bu adda yaradacaq
 
 
 

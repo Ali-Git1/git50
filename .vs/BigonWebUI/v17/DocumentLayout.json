@@ -3,66 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\ELViN\\source\\repos\\BigonWebUI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{10AE55ED-34F1-4770-925E-D17968A4103E}|BigonWebUI\\BigonWebUI.csproj|c:\\users\\elvin\\source\\repos\\bigonwebui\\bigonwebui\\migrations\\20240521082413_createcolors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10AE55ED-34F1-4770-925E-D17968A4103E}|BigonWebUI\\BigonWebUI.csproj|solutionrelative:bigonwebui\\migrations\\20240521082413_createcolors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10AE55ED-34F1-4770-925E-D17968A4103E}|BigonWebUI\\BigonWebUI.csproj|c:\\users\\elvin\\source\\repos\\bigonwebui\\bigonwebui\\models\\entities\\auditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10AE55ED-34F1-4770-925E-D17968A4103E}|BigonWebUI\\BigonWebUI.csproj|solutionrelative:bigonwebui\\models\\entities\\auditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10AE55ED-34F1-4770-925E-D17968A4103E}|BigonWebUI\\BigonWebUI.csproj|c:\\users\\elvin\\source\\repos\\bigonwebui\\bigonwebui\\models\\persistences\\configurations\\colorentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10AE55ED-34F1-4770-925E-D17968A4103E}|BigonWebUI\\BigonWebUI.csproj|solutionrelative:bigonwebui\\models\\persistences\\configurations\\colorentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10AE55ED-34F1-4770-925E-D17968A4103E}|BigonWebUI\\BigonWebUI.csproj|c:\\users\\elvin\\source\\repos\\bigonwebui\\bigonwebui\\models\\persistences\\configurations\\configurationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10AE55ED-34F1-4770-925E-D17968A4103E}|BigonWebUI\\BigonWebUI.csproj|solutionrelative:bigonwebui\\models\\persistences\\configurations\\configurationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10AE55ED-34F1-4770-925E-D17968A4103E}|BigonWebUI\\BigonWebUI.csproj|c:\\users\\elvin\\source\\repos\\bigonwebui\\bigonwebui\\models\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10AE55ED-34F1-4770-925E-D17968A4103E}|BigonWebUI\\BigonWebUI.csproj|solutionrelative:bigonwebui\\models\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10AE55ED-34F1-4770-925E-D17968A4103E}|BigonWebUI\\BigonWebUI.csproj|c:\\users\\elvin\\source\\repos\\bigonwebui\\bigonwebui\\models\\entities\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10AE55ED-34F1-4770-925E-D17968A4103E}|BigonWebUI\\BigonWebUI.csproj|solutionrelative:bigonwebui\\models\\entities\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10AE55ED-34F1-4770-925E-D17968A4103E}|BigonWebUI\\BigonWebUI.csproj|c:\\users\\elvin\\source\\repos\\bigonwebui\\bigonwebui\\models\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10AE55ED-34F1-4770-925E-D17968A4103E}|BigonWebUI\\BigonWebUI.csproj|solutionrelative:bigonwebui\\models\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10AE55ED-34F1-4770-925E-D17968A4103E}|BigonWebUI\\BigonWebUI.csproj|c:\\users\\elvin\\source\\repos\\bigonwebui\\bigonwebui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{10AE55ED-34F1-4770-925E-D17968A4103E}|BigonWebUI\\BigonWebUI.csproj|solutionrelative:bigonwebui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{10AE55ED-34F1-4770-925E-D17968A4103E}|BigonWebUI\\BigonWebUI.csproj|c:\\users\\elvin\\source\\repos\\bigonwebui\\bigonwebui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{10AE55ED-34F1-4770-925E-D17968A4103E}|BigonWebUI\\BigonWebUI.csproj|solutionrelative:bigonwebui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELViN\\Desktop\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ELViN\\Desktop\\about.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{10AE55ED-34F1-4770-925E-D17968A4103E}|BigonWebUI\\BigonWebUI.csproj|c:\\users\\elvin\\source\\repos\\bigonwebui\\bigonwebui\\wwwroot\\libs\\toastr.js\\toastradditional.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{10AE55ED-34F1-4770-925E-D17968A4103E}|BigonWebUI\\BigonWebUI.csproj|solutionrelative:bigonwebui\\wwwroot\\libs\\toastr.js\\toastradditional.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{10AE55ED-34F1-4770-925E-D17968A4103E}|BigonWebUI\\BigonWebUI.csproj|c:\\users\\elvin\\source\\repos\\bigonwebui\\bigonwebui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10AE55ED-34F1-4770-925E-D17968A4103E}|BigonWebUI\\BigonWebUI.csproj|solutionrelative:bigonwebui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10AE55ED-34F1-4770-925E-D17968A4103E}|BigonWebUI\\BigonWebUI.csproj|c:\\users\\elvin\\source\\repos\\bigonwebui\\bigonwebui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10AE55ED-34F1-4770-925E-D17968A4103E}|BigonWebUI\\BigonWebUI.csproj|solutionrelative:bigonwebui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{10AE55ED-34F1-4770-925E-D17968A4103E}|BigonWebUI\\BigonWebUI.csproj|c:\\users\\elvin\\source\\repos\\bigonwebui\\bigonwebui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10AE55ED-34F1-4770-925E-D17968A4103E}|BigonWebUI\\BigonWebUI.csproj|solutionrelative:bigonwebui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10AE55ED-34F1-4770-925E-D17968A4103E}|BigonWebUI\\BigonWebUI.csproj|c:\\users\\elvin\\source\\repos\\bigonwebui\\bigonwebui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{10AE55ED-34F1-4770-925E-D17968A4103E}|BigonWebUI\\BigonWebUI.csproj|solutionrelative:bigonwebui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10AE55ED-34F1-4770-925E-D17968A4103E}|BigonWebUI\\BigonWebUI.csproj|c:\\users\\elvin\\source\\repos\\bigonwebui\\bigonwebui\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{10AE55ED-34F1-4770-925E-D17968A4103E}|BigonWebUI\\BigonWebUI.csproj|solutionrelative:bigonwebui\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10AE55ED-34F1-4770-925E-D17968A4103E}|BigonWebUI\\BigonWebUI.csproj|c:\\users\\elvin\\source\\repos\\bigonwebui\\bigonwebui\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{10AE55ED-34F1-4770-925E-D17968A4103E}|BigonWebUI\\BigonWebUI.csproj|solutionrelative:bigonwebui\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{10AE55ED-34F1-4770-925E-D17968A4103E}|BigonWebUI\\BigonWebUI.csproj|c:\\users\\elvin\\source\\repos\\bigonwebui\\bigonwebui\\models\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AE55ED-34F1-4770-925E-D17968A4103E}|BigonWebUI\\BigonWebUI.csproj|solutionrelative:bigonwebui\\models\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -72,44 +30,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20240521082413_CreateColors.cs",
-              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\BigonWebUI\\BigonWebUI\\Migrations\\20240521082413_CreateColors.cs",
-              "RelativeDocumentMoniker": "BigonWebUI\\Migrations\\20240521082413_CreateColors.cs",
-              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\BigonWebUI\\BigonWebUI\\Migrations\\20240521082413_CreateColors.cs",
-              "RelativeToolTip": "BigonWebUI\\Migrations\\20240521082413_CreateColors.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T08:24:13.541Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ColorEntityConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\BigonWebUI\\BigonWebUI\\Models\\Persistences\\Configurations\\ColorEntityConfiguration.cs",
-              "RelativeDocumentMoniker": "BigonWebUI\\Models\\Persistences\\Configurations\\ColorEntityConfiguration.cs",
-              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\BigonWebUI\\BigonWebUI\\Models\\Persistences\\Configurations\\ColorEntityConfiguration.cs",
-              "RelativeToolTip": "BigonWebUI\\Models\\Persistences\\Configurations\\ColorEntityConfiguration.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAqAAAA",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\BigonWebUI\\BigonWebUI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BigonWebUI\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\BigonWebUI\\BigonWebUI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BigonWebUI\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAAEAAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T08:08:17.446Z"
+              "WhenOpened": "2024-05-24T19:56:14.411Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ConfigurationHelper.cs",
-              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\BigonWebUI\\BigonWebUI\\Models\\Persistences\\Configurations\\ConfigurationHelper.cs",
-              "RelativeDocumentMoniker": "BigonWebUI\\Models\\Persistences\\Configurations\\ConfigurationHelper.cs",
-              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\BigonWebUI\\BigonWebUI\\Models\\Persistences\\Configurations\\ConfigurationHelper.cs",
-              "RelativeToolTip": "BigonWebUI\\Models\\Persistences\\Configurations\\ConfigurationHelper.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T08:09:03.99Z"
+              "DocumentIndex": 1,
+              "Title": "toastradditional.js",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\BigonWebUI\\BigonWebUI\\wwwroot\\libs\\toastr.js\\toastradditional.js",
+              "RelativeDocumentMoniker": "BigonWebUI\\wwwroot\\libs\\toastr.js\\toastradditional.js",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\BigonWebUI\\BigonWebUI\\wwwroot\\libs\\toastr.js\\toastradditional.js",
+              "RelativeToolTip": "BigonWebUI\\wwwroot\\libs\\toastr.js\\toastradditional.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-25T14:34:54.971Z"
             },
             {
               "$type": "Document",
@@ -119,153 +65,34 @@
               "RelativeDocumentMoniker": "BigonWebUI\\Models\\DataContext.cs",
               "ToolTip": "C:\\Users\\ELViN\\source\\repos\\BigonWebUI\\BigonWebUI\\Models\\DataContext.cs",
               "RelativeToolTip": "BigonWebUI\\Models\\DataContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAAB4AAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T18:50:32.176Z"
+              "WhenOpened": "2024-05-25T13:41:32.357Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AuditableEntity.cs",
-              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\BigonWebUI\\BigonWebUI\\Models\\Entities\\AuditableEntity.cs",
-              "RelativeDocumentMoniker": "BigonWebUI\\Models\\Entities\\AuditableEntity.cs",
-              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\BigonWebUI\\BigonWebUI\\Models\\Entities\\AuditableEntity.cs",
-              "RelativeToolTip": "BigonWebUI\\Models\\Entities\\AuditableEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T19:38:38.535Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Color.cs",
-              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\BigonWebUI\\BigonWebUI\\Models\\Entities\\Color.cs",
-              "RelativeDocumentMoniker": "BigonWebUI\\Models\\Entities\\Color.cs",
-              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\BigonWebUI\\BigonWebUI\\Models\\Entities\\Color.cs",
-              "RelativeToolTip": "BigonWebUI\\Models\\Entities\\Color.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T19:28:07.927Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\BigonWebUI\\BigonWebUI\\Models\\Entities\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "BigonWebUI\\Models\\Entities\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\BigonWebUI\\BigonWebUI\\Models\\Entities\\BaseEntity.cs",
-              "RelativeToolTip": "BigonWebUI\\Models\\Entities\\BaseEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T19:35:09.043Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\BigonWebUI\\BigonWebUI\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "BigonWebUI\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\BigonWebUI\\BigonWebUI\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "BigonWebUI\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-20T19:12:48.838Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\ELViN\\Desktop\\index.html",
-              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\index.html",
-              "ToolTip": "C:\\Users\\ELViN\\Desktop\\index.html",
-              "RelativeToolTip": "..\\..\\..\\Desktop\\index.html",
-              "ViewState": "AQIAAFwDAAAAAAAAAAAAAGQDAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-05-20T19:15:27.733Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\BigonWebUI\\BigonWebUI\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "BigonWebUI\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\BigonWebUI\\BigonWebUI\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "BigonWebUI\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T19:12:36.801Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "about.html",
-              "DocumentMoniker": "C:\\Users\\ELViN\\Desktop\\about.html",
-              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\about.html",
-              "ToolTip": "C:\\Users\\ELViN\\Desktop\\about.html",
-              "RelativeToolTip": "..\\..\\..\\Desktop\\about.html",
-              "ViewState": "AQIAANIAAAAAAAAAAAAAAKAAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-05-20T19:06:53.969Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\BigonWebUI\\BigonWebUI\\Program.cs",
-              "RelativeDocumentMoniker": "BigonWebUI\\Program.cs",
-              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\BigonWebUI\\BigonWebUI\\Program.cs",
-              "RelativeToolTip": "BigonWebUI\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T18:39:46.641Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\BigonWebUI\\BigonWebUI\\appsettings.json",
-              "RelativeDocumentMoniker": "BigonWebUI\\appsettings.json",
-              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\BigonWebUI\\BigonWebUI\\appsettings.json",
-              "RelativeToolTip": "BigonWebUI\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-20T18:47:00.091Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\BigonWebUI\\BigonWebUI\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "BigonWebUI\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\ELViN\\source\\repos\\BigonWebUI\\BigonWebUI\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "BigonWebUI\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABoAAAAAAAAAAAAAAIEAAAA/AAAA",
+              "ViewState": "AQIAAMADAAAAAAAAAAAAANIDAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-20T18:43:51.932Z"
+              "WhenOpened": "2024-05-24T19:02:08.563Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\BigonWebUI\\BigonWebUI\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "BigonWebUI\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\BigonWebUI\\BigonWebUI\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "BigonWebUI\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\BigonWebUI\\BigonWebUI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BigonWebUI\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\BigonWebUI\\BigonWebUI\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BigonWebUI\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAJQVAAAAAAAAAAAAAJ4VAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-20T18:43:19.961Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\BigonWebUI\\BigonWebUI\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "BigonWebUI\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\BigonWebUI\\BigonWebUI\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "BigonWebUI\\Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-20T18:43:02.656Z"
+              "WhenOpened": "2024-05-24T18:54:48.021Z",
+              "EditorCaption": ""
             }
           ]
         }

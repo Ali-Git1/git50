@@ -1,4 +1,5 @@
 ﻿using System.Security.Principal;
+using BigonWebUI.Models.Entities.Common;
 
 namespace BigonWebUI.Models.Entities
 {
