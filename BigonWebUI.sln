@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34616.47
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigonWebUI", "BigonWebUI\BigonWebUI.csproj", "{10AE55ED-34F1-4770-925E-D17968A4103E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BigonApp.WebUI", "BigonWebUI\BigonApp.WebUI.csproj", "{10AE55ED-34F1-4770-925E-D17968A4103E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigonApp.Infrastructure", "BigonWebUI.Infrastructure\BigonApp.Infrastructure.csproj", "{1A2A5D35-3B6B-433E-99A2-81012362E98D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigonApp.Business", "BigonWebUI.Business\BigonApp.Business.csproj", "{C64FD791-4DC1-459E-ABA6-152E49D31F7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigonApp.Data", "BigonWebUI.Data\BigonApp.Data.csproj", "{B3C97066-8749-4E2B-A641-B9ABA1EBCD11}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{10AE55ED-34F1-4770-925E-D17968A4103E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10AE55ED-34F1-4770-925E-D17968A4103E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10AE55ED-34F1-4770-925E-D17968A4103E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A2A5D35-3B6B-433E-99A2-81012362E98D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A2A5D35-3B6B-433E-99A2-81012362E98D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A2A5D35-3B6B-433E-99A2-81012362E98D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A2A5D35-3B6B-433E-99A2-81012362E98D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C64FD791-4DC1-459E-ABA6-152E49D31F7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C64FD791-4DC1-459E-ABA6-152E49D31F7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C64FD791-4DC1-459E-ABA6-152E49D31F7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C64FD791-4DC1-459E-ABA6-152E49D31F7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3C97066-8749-4E2B-A641-B9ABA1EBCD11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3C97066-8749-4E2B-A641-B9ABA1EBCD11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3C97066-8749-4E2B-A641-B9ABA1EBCD11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3C97066-8749-4E2B-A641-B9ABA1EBCD11}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

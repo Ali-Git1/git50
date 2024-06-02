@@ -1,0 +1,13 @@
+C:\Users\ELViN\source\repos\BigonWebUI\BigonWebUI.Infrastructure\bin\Debug\net8.0\BigonApp.Infrastructure.deps.json
+C:\Users\ELViN\source\repos\BigonWebUI\BigonWebUI.Infrastructure\bin\Debug\net8.0\BigonApp.Infrastructure.dll
+C:\Users\ELViN\source\repos\BigonWebUI\BigonWebUI.Infrastructure\bin\Debug\net8.0\BigonApp.Infrastructure.pdb
+C:\Users\ELViN\source\repos\BigonWebUI\BigonWebUI.Infrastructure\obj\Debug\net8.0\BigonApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ELViN\source\repos\BigonWebUI\BigonWebUI.Infrastructure\obj\Debug\net8.0\BigonApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELViN\source\repos\BigonWebUI\BigonWebUI.Infrastructure\obj\Debug\net8.0\BigonApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ELViN\source\repos\BigonWebUI\BigonWebUI.Infrastructure\obj\Debug\net8.0\BigonApp.Infrastructure.AssemblyInfo.cs
+C:\Users\ELViN\source\repos\BigonWebUI\BigonWebUI.Infrastructure\obj\Debug\net8.0\BigonApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ELViN\source\repos\BigonWebUI\BigonWebUI.Infrastructure\obj\Debug\net8.0\BigonApp.Infrastructure.sourcelink.json
+C:\Users\ELViN\source\repos\BigonWebUI\BigonWebUI.Infrastructure\obj\Debug\net8.0\BigonApp.Infrastructure.dll
+C:\Users\ELViN\source\repos\BigonWebUI\BigonWebUI.Infrastructure\obj\Debug\net8.0\refint\BigonApp.Infrastructure.dll
+C:\Users\ELViN\source\repos\BigonWebUI\BigonWebUI.Infrastructure\obj\Debug\net8.0\BigonApp.Infrastructure.pdb
+C:\Users\ELViN\source\repos\BigonWebUI\BigonWebUI.Infrastructure\obj\Debug\net8.0\ref\BigonApp.Infrastructure.dll

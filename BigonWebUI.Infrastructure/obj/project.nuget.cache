@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "NTRP8TgO/h/QoYGzdc+ZiIxm/FzxPpAh2OGDaMpG/VBDIQOn2I/zhSeIOyYR81O60B4N5J/Y0xXhN7J6e6OBkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ELViN\\source\\repos\\BigonWebUI\\BigonWebUI.Infrastructure\\BigonApp.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ELViN\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\ELViN\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\ELViN\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
