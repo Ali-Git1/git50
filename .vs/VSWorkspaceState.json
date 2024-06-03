@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BigonWebUI",
+    "\\BigonWebUI.Business",
+    "\\BigonWebUI.Business\\obj",
+    "\\BigonWebUI.Business\\obj\\Debug",
+    "\\BigonWebUI\\Controllers",
+    "\\BigonWebUI\\wwwroot",
+    "\\BigonWebUI\\wwwroot\\libs",
+    "\\BigonWebUI\\wwwroot\\libs\\toastr.js"
+  ],
+  "SelectedNode": "\\BigonWebUI\\wwwroot\\libs\\toastr.js\\toastradditional.js",
+  "PreviewInSolutionExplorer": false
+}
